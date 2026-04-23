@@ -26,4 +26,4 @@ The project focuses on Component-Driven Development. By breaking the UI into log
 4. **Start the Development Server**
    npm run dev
 5. **View in Browser:**
-   Open http://localhost:5173 in your web browser to view the application.
+   Open "http://localhost:5173" in your web browser to view the application.

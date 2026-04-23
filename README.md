@@ -5,7 +5,7 @@ This project is a React-based professional landing page that serves as a modern 
 
 ## Tech Used:
 * **React.js**: For a fast, component-based development environment.
-* **CSS3**: Custom "Basic & Clean" aesthetic using a signature Tan/Cyan color palette.
+* **CSS3**: Custom basic aesthetic using simple color palette.
 * **JavaScript (ES6+)**: Utilizing functional components for modern architecture.
 
 ## Implementation Summary:

@@ -10,7 +10,7 @@ This project is a React-based professional landing page that serves as a modern 
 
 ## Implementation Summary:
 The project focuses on Component-Driven Development. By breaking the UI into logical sections, the code remains scalable and easy to maintain. 
-**Custom UI Components**: Built a centralized portfolio interface featuring a summary.
+- **Custom UI Components**: Built a centralized portfolio interface featuring a summary.
 - **Minimalist Styling**: Implemented a basic design system.
 - **Responsive Layout**: Used Flexbox/Grid systems to ensure the portfolio remains functional and visually consistent across different screen sizes.
 

@@ -34,7 +34,7 @@ function App() {
 
   const myItems = [
     { title: 'Item One', url: '#', author: 'Deepali', num_comments: 5, points: 10, objectID: 1 },
-    { title: 'Item Two', url: '#', author: 'Deepali', num_comments: 2, points: 20, objectID: 2 },
+    { title: 'Item Two', url: '#', author: 'Rashmi', num_comments: 2, points: 20, objectID: 2 },
   ];
 
   const products = [

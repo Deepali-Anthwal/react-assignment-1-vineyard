@@ -23,7 +23,6 @@ The project focuses on Component-Driven Development. By breaking the UI into log
    - Open your terminal or command prompt inside the project folder.
 3. **Install Dependencies:**
    npm install
-4. **Start the Development Server**
-   npm run dev
-5. **View in Browser:**
-   Open "http://localhost:5173" in your web browser to view the application.
+4. **Start the Project**
+   npm start
+
